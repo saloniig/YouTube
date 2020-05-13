@@ -1,6 +1,6 @@
 ## What is the use of this Repo
 
-This Project is a ReactJS Project which function as You-Tube in which in  you-Tube videos are displayed according to the matched keyword typed in search-box with video title and description.The default videos are also displayed like You-Tube.
+This Project is a ReactJS Project which function as You-Tube in which in  You-Tube videos are displayed according to the matched keyword typed in search-box with video title and description.The default videos are also displayed like You-Tube.
 This project demonstrates the following:
 
 1.  Creating a Component in React
@@ -56,5 +56,5 @@ Starting with release v0.19.0 there is a bug that fails to merge the parameters 
 
 **React Bootstrap**  : Refer to  [https://semantic-ui.com/]([https://semantic-ui.com/](https://semantic-ui.com/))  to understand how to use React Bootstrap
 
-**You-Tube API**:Refer to [https://console.developers.google.com/](https://console.developers.google.com/)to get an api for images
+**You-Tube API**:Refer to [https://console.developers.google.com/](https://console.developers.google.com/) to get an api for You-Tube videos.
 
