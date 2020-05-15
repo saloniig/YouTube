@@ -3,7 +3,7 @@
 import axios from 'axios';
 
 
-const KEY = 'AIzaSyBmVUOYKNN81OAqq8X2lH6VpZLNiK_u20E';
+const KEY = '';  //Api key
 export default axios.create({
   
 
